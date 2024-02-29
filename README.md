@@ -38,7 +38,7 @@
   <img src="https://i.ibb.co/3kGwSQq/arvore-1.png" alt="swagger documentation1">
 </p>
 
-## Basicamente iremos criar uma árvore auxiliar(componente) e depois adicionar a árvore original.Ficando da segguinte forma:
+## Basicamente iremos criar uma árvore auxiliar(componente) e depois adicionar a árvore original.Ficando da seguinte forma:
 <p align="center">
   <img src="https://i.ibb.co/K5tf4n3/arvore-2.png" alt="swagger documentation1">
 </p>
